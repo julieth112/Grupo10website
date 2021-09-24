@@ -1,0 +1,126 @@
+
+#navegacion{
+    background-color: #2a5178;
+    height: 50px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#info{
+    width: auto;
+    height: 200px;
+}
+
+#info2{
+    position: relative;
+    /*top: -15px; /* ajustar los valores para mover la imagen */
+    /*left: -5px;*/
+    width: auto;
+    height: 200px;
+    float: left;
+}
+
+#logo {
+    width: auto;
+    height: 50px;
+}
+
+#a_registroDeUsuarios{
+    width: 80px;
+    height: 50px;
+    float: right;
+    border-radius: 8px;
+    border: LightCyan;
+    transition-duration: 0.4s;
+    background-color: LightCyan;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+#a_registroDeUsuarios:hover{
+    background-color: black;
+    color: #ffffff;
+}
+
+#btn_registroDeUsuarios {
+    width: 80px;
+    height: 50px;
+    float: right;
+    border-radius: 8px;
+    border: LightCyan;
+    transition-duration: 0.4s;
+    background-color: LightCyan;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+}
+
+#btn_registroDeUsuarios:hover {
+    background-color: black;
+    color: #ffffff;
+}
+
+#container h1{
+    text-align: center;
+    color: black;
+}
+
+#container p{
+    width: 80%;
+    color: black;
+    margin: 0 auto;
+}
+
+#registrar_usuario_form {
+    position: relative;
+    height: 200px;
+    float: right;
+    background-color: white;
+    border-radius: 3px;
+    color:black;
+    font-size: 1em;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#registrar_usuario_form input{
+    margin: 10px;
+    display: block;
+    width: 30%;
+    border: solid 1px #ccc;
+    padding: 10px;
+    border-color: #18A383;
+    text-align: center;
+
+
+}
+
+#enviar_registro{
+    width: 30%;
+    display: block;
+    margin: 10px;
+    border: 1px solid #2e518b; 
+    padding: 5px; 
+    background-color: #EDA135;
+    color: #ffffff; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    border-radius: 50px; 
+    text-align: center;
+}
+
+#enviar_registro:hover {
+    
+    background-color: #4C9ED9;
+    color: #ffffff;
+}
+
+#nombre_usuario {
+    width: 30%;
+}

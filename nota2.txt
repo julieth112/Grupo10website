@@ -1,0 +1,5 @@
+nota
+
+Solo cree las etiquetas y documentos que pedia el sprint, 
+modifique algunas cosas en css, pero solo para que se viera en la web.
+Nada funciona
